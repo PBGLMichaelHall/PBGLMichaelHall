@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Das buch der funf ringe
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Bats are the only mammal that can actually fly and even though they can see they use echolocation to find insects in dark places like caves
+- ⚡ Fun fact: Bats are the only mammal that can actually fly and even though they can see insects for food in the sunlight, without light they use echolocation to find insects in dark places like caves.
 -->
